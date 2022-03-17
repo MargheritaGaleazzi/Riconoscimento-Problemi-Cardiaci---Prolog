@@ -36,6 +36,7 @@ Con il dataset a disposizione i risultati ottenuti sono quelli riportati di segu
 </p>
 
 **Induzione Regole senza attributi valorizzati a sconosciuto**
+
 Questo algoritmo a differenza del precedente non asserisce regole su attributi che hanno come valore "Sconosciuto".
 
 <p align="center">
