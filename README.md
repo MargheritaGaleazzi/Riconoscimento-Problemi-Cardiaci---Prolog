@@ -30,30 +30,53 @@ Con il dataset a disposizione i risultati ottenuti sono quelli riportati di segu
 > Bisogna però notare che con l'algoritmo di induzione dell'albero e con le due differenti implementazioni dell'algoritmo per l'induzione delle regole, si hanno dei casi non classificati quindi l'accuratezza che si ha in realtà è notevolmente inferiore.
 
 **Induzione Regole con attributi valorizzati a sconosciuto**
-![Risultati induzioni regole sconosciuto](https://github.com/MargheritaGaleazzi/Riconoscimento-Problemi-Cardiaci---Prolog/blob/main/img/ris_ind_scon.png)
+
+<p align="center">
+<img src="https://github.com/MargheritaGaleazzi/Riconoscimento-Problemi-Cardiaci---Prolog/blob/main/img/ris_ind_scon.png">
+</p>
 
 **Induzione Regole senza attributi valorizzati a sconosciuto**
 Questo algoritmo a differenza del precedente non asserisce regole su attributi che hanno come valore "Sconosciuto".
-![Risultati induzioni regole](https://github.com/MargheritaGaleazzi/Riconoscimento-Problemi-Cardiaci---Prolog/blob/main/img/ris_ind_not.png)
+
+<p align="center">
+<img src="https://github.com/MargheritaGaleazzi/Riconoscimento-Problemi-Cardiaci---Prolog/blob/main/img/ris_ind_not.png">
+</p>
 
 **Induzione Albero Decisionale**
-![Risultati induzione albero](https://github.com/MargheritaGaleazzi/Riconoscimento-Problemi-Cardiaci---Prolog/blob/main/img/ris_ind_alb.png)
+
+<p align="center">
+<img src="https://github.com/MargheritaGaleazzi/Riconoscimento-Problemi-Cardiaci---Prolog/blob/main/img/ris_ind_alb.png">
+</p>
 
 **Bayes Naive**
-![Risultati Bayes Naive](https://github.com/MargheritaGaleazzi/Riconoscimento-Problemi-Cardiaci---Prolog/blob/main/img/ris_bayes.png)
+
+<p align="center">
+<img src="https://github.com/MargheritaGaleazzi/Riconoscimento-Problemi-Cardiaci---Prolog/blob/main/img/ris_bayes.png">
+</p>
 
 **KNN**
-![Risultati KNN](https://github.com/MargheritaGaleazzi/Riconoscimento-Problemi-Cardiaci---Prolog/blob/main/img/ris_knn.png)
+
+<p align="center">
+<img src="https://github.com/MargheritaGaleazzi/Riconoscimento-Problemi-Cardiaci---Prolog/blob/main/img/ris_knn.png">
+</p>
 
 **KNN Pesato**
-![Risultati KNN_Pesato](https://github.com/MargheritaGaleazzi/Riconoscimento-Problemi-Cardiaci---Prolog/blob/main/img/ris_knnP.png)
+
+<p align="center">
+<img src="https://github.com/MargheritaGaleazzi/Riconoscimento-Problemi-Cardiaci---Prolog/blob/main/img/ris_knnP.png">
+</p>
 
 **Paragoni:**
-![Grafico1](https://github.com/MargheritaGaleazzi/Riconoscimento-Problemi-Cardiaci---Prolog/blob/main/img/grafico1.png)
-![Grafico2](https://github.com/MargheritaGaleazzi/Riconoscimento-Problemi-Cardiaci---Prolog/blob/main/img/grafico2.png)
+<p align="center">
+<img src="https://github.com/MargheritaGaleazzi/Riconoscimento-Problemi-Cardiaci---Prolog/blob/main/img/grafico1.png">
+<img src="https://github.com/MargheritaGaleazzi/Riconoscimento-Problemi-Cardiaci---Prolog/blob/main/img/grafico2.png">
+</p>
 
-**Chiarezza sui termini (Vero Positivo, Falso Positivo, Vero Negativo, Falso Negativo)**
-![Tabella](https://github.com/MargheritaGaleazzi/Riconoscimento-Problemi-Cardiaci---Prolog/blob/main/img/tabella.png)
+## Chiarezza sui termini (Vero Positivo, Falso Positivo, Vero Negativo, Falso Negativo)
+
+<p align="center">
+<img src="https://github.com/MargheritaGaleazzi/Riconoscimento-Problemi-Cardiaci---Prolog/blob/main/img/tabella.png">
+</p>
 
 ## Autore
 Margherita Galeazzi -> https://github.com/MargheritaGaleazzi
