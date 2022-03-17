@@ -5,7 +5,9 @@ Analisi di un dataset di pazienti mediante un programma scritto in Prolog per il
 Il contenuto del repository è un insieme di programmi prolog che utilizzano differenti approcci e algoritmi di machine learning, per provare a predirre la classe di appartenenza (malato o sano) di un paziente.
 ## Il dataset di riferimento
 [https://archive.ics.uci.edu/ml/datasets/heart+disease](https://archive.ics.uci.edu/ml/datasets/heart+disease)
+
 I dati con cui si è costruito il dataset sono stati estratti dai dataset processati presenti nel link sopra.
+
 Ai fini di avere un dataset consistente ho provveduto ad unire insieme tutti i dataset processati provenienti dalle varie organizzazioni. Il file contenente tale unione è visibile nella cartella ed ha il nome **heart2.csv**
 ## I dati
 I dati presenti nel dataset sono:
